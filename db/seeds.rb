@@ -27,7 +27,9 @@ more_movies = [
   {:title => 'The Shawshank Redemption', :rating => 'R',
     :release_date => '14-Oct-1994'},
   {:title => 'Top Gun: Maverick', :rating => 'PG-13',
-    :release_date => '27-May-2022'}
+    :release_date => '27-May-2022'},
+  {:title => 'Mission: Impossible', :rating => 'PG-13',
+    :release_date => '22-May-1996'}
 ]
 
 more_movies.each do |movie|
